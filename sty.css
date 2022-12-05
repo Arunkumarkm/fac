@@ -1,0 +1,78 @@
+#form1 {
+    position: relative;
+    top: 200px;
+    margin-left: 700px;
+    margin-right: 100px;
+    padding: 20px 30px;
+    box-sizing: border-box;
+    border: 3px solid #f3ededc9;
+    border-radius: 4px;
+    background-color: white;
+    box-shadow: 2px 2px 2px 2px #f3eded66;
+}
+
+#email {
+    font-size: larger;
+}
+
+#password12 {
+    font-size: larger;
+}
+
+.button {
+    text-align: center;
+}
+
+#bt {
+    color: white;
+    font-size: larger;
+    font-weight: bold;
+    background-color: rgb(16, 100, 226);
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.link {
+    text-align: center;
+}
+
+#hrf {
+    font-size: medium;
+    font-weight: bold;
+}
+
+.btn1 {
+    text-align: center;
+}
+
+#bt1 {
+    background-color: rgb(14, 162, 14);
+    font-size: larger;
+    font-weight: bold;
+    color: white;
+}
+
+.head h1 {
+    position: absolute;
+    font-size: 50px;
+    top: 220px;
+    left: 40px;
+    text-align: center;
+    color: blue;
+    font-weight: bold;
+}
+
+.head p {
+    position: absolute;
+    font-size: 20px;
+    top: 300px;
+    left: 40px;
+    margin-right: 1100px;
+    font-weight: bold;
+}
+
+.para {
+    position: absolute;
+    top: 550px;
+    left: 930px;
+}
